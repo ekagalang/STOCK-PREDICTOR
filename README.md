@@ -1,6 +1,5 @@
 # 📊 STOCK PREDICTOR IDX
 
-Deskripsi singkat tentang project ini. Jelaskan tujuan, fitur utama, atau problem yang ingin diselesaikan.
 
 ---
 
@@ -9,8 +8,8 @@ Deskripsi singkat tentang project ini. Jelaskan tujuan, fitur utama, atau proble
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/namaproject.git
-cd namaproject
+git clone https://github.com/ekagalang/STOCK-PREDICTOR.git
+cd STOCK-PREDICTOR
 ```
 
 ### 2. Buat Virtual Environment
@@ -87,11 +86,3 @@ Jika ingin sharing aplikasi:
 * **Render / VPS** → Lebih bebas & fleksibel.
 
 ---
-
-## 📝 Lisensi
-
-Tentukan lisensi project Anda, misalnya MIT, Apache 2.0, atau GPL.
-
----
-
-💡 **Tips:** Update `README.md` ini sesuai kebutuhan project, tambahkan screenshot aplikasi agar lebih menarik!
