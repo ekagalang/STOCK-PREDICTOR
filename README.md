@@ -1,4 +1,4 @@
-# 📊 Project Name
+# 📊 STOCK PREDICTOR IDX
 
 Deskripsi singkat tentang project ini. Jelaskan tujuan, fitur utama, atau problem yang ingin diselesaikan.
 
