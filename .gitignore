@@ -1,0 +1,102 @@
+﻿# OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.code-workspace
+.vscode/
+.idea/
+
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+.python-version
+
+# Build / distribution
+build/
+dist/
+develop-eggs/
+.eggs/
+*.egg-info/
+pip-wheel-metadata/
+*.egg
+
+# Testing / coverage / caches
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+.tox/
+.nox/
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+logs/
+log/
+
+# Data and models (keep repo small)
+data/
+models/
+!data/.gitkeep
+!data/README.md
+!models/.gitkeep
+!models/README.md
+
+# Common ML/data/binary artifacts
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.bin
+*.npz
+*.npy
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.sqlite
+*.db
+
+# Credentials and local env
+.env
+.env.*
+!.env.example
+*.secret
+secrets/
+credentials/
+
+# ML tooling caches
+mlruns/
+wandb/
+runs/
+.dvc/
+.dagshub/
+.ray/
+
+# OS generated temp files
+~$*
+*.tmp
+*.temp
